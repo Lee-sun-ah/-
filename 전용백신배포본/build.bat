@@ -1,0 +1,1 @@
+C:\Users\ST0429\Anaconda3\Scripts\pyinstaller.exe antivirus.py
